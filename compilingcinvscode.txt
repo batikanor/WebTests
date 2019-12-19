@@ -1,0 +1,23 @@
+How to Compile and Run C Program using Visual Studio Code Tasks : https://www.youtube.com/watch?v=b_gCeFjBy7c
+- Install Visual Studio Code. Install C/C++ extension. Install Mingw-w64 to a folder that has no spaces in its path. Add the path to your Mingw-w64 bin folder to the Windows PATH environment variable.
+part 1: Installing MinGW compiler and visual studio code.
+https://www.youtube.com/watch?v=4Jx6om-_7qc
+
+part 2: compile and run c program using visual studio code tasks. 
+https://www.youtube.com/watch?v=b_gCeFjBy7c
+
+part 3: assign key board shortcut for compiling and running c program in visual studio code. 
+https://www.youtube.com/watch?v=VEMLtGjr_oA
+
+part 4: how to debug c program in visual studio code
+https://www.youtube.com/watch?v=GCry6PqxMTY
+
+If it still doesn't work, try installing Code Runner extension.
+
+1 - install "Code Runner" extension
+2 - Restart VScode
+
+3 - Write your code
+4 -  "ctrl + alt + n"  To run the code (sanirim en duzgunu bu...)
+
+
