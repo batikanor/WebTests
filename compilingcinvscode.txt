@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=4Jx6om-_7qc
 part 2: compile and run c program using visual studio code tasks. 
 https://www.youtube.com/watch?v=b_gCeFjBy7c
 
-part 3: assign key board shortcut for compiling and running c program in visual studio code. 
+part 3: assign keyboard shortcut for compiling and running c program in visual studio code. 
 https://www.youtube.com/watch?v=VEMLtGjr_oA
 
 part 4: how to debug c program in visual studio code
